@@ -1,2 +1,5 @@
 # CastleAOPTest
 CastleAOP使用示例
+参照abp中aop的代码，可以拦截同步或异步方法
+目前做了log，可以想到的功能有缓存及polly的相关功能集成
+polly已看到有别人做好的
